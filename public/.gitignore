@@ -1,0 +1,5 @@
+# Ignore everything outside the portfolio folder
+../*
+../../*
+System Volume Information/
+$RECYCLE.BIN/
